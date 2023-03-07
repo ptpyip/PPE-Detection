@@ -1,0 +1,15 @@
+# This file specify the dataset paths and calss info for yolov5 lib
+
+# Dataset paths relative to the yolov5 folder
+test:  .../datasets/YOLO/images/test
+val:  .../datasets/YOLO/images/test
+test:  .../datasets/YOLO/images/test
+
+# Number of classes
+nc: 2
+
+# Class names 0 - cat, 1 - dog
+
+names:
+  0: no_helmet
+  1: helmet
