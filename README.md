@@ -12,7 +12,8 @@ Faster-R-CNN, SSD, and YOLO.
 
 ## Demo
 We use our fine-tuned YOLOv5 model to detect whether workers are wearing helmet or not, using a clip captured from YouTube.
-<iframe src="https://drive.google.com/file/d/1yIFMcjzW3mTHVux62ltz_WioJ7oKn8Ws/preview" width="640" height="360" allow="autoplay"></iframe>
+![YOLO_detect ](https://user-images.githubusercontent.com/18398848/223604593-7616b1b8-c64d-4d59-ae1b-baee448f1381.gif)
+
 
 ## Acknowledgements
 Here are some repo inspired our work:
