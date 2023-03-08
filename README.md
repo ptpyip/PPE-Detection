@@ -13,7 +13,7 @@ Faster-R-CNN, SSD, and YOLO.
 ## Demo
 We use our fine-tuned YOLOv5 model to detect whether workers are wearing helmet or not, using a clip captured from YouTube.
 ![YOLO_detect ](https://user-images.githubusercontent.com/18398848/223604593-7616b1b8-c64d-4d59-ae1b-baee448f1381.gif)
-
+Full Video: [https://drive.google.com/file/d/1yIFMcjzW3mTHVux62ltz_WioJ7oKn8Ws/preview](https://drive.google.com/file/d/1yIFMcjzW3mTHVux62ltz_WioJ7oKn8Ws/preview)
 ## Acknowledgements
 Here are some repo inspired our work:
 - [Nested PPE detection FasterRCNN](https://github.com/mohammadakz/Nested_PPE_detection_FasterRCNN)
