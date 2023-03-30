@@ -1,5 +1,6 @@
 import argparse
 
+
 def parse_args():
     parser = argparse.ArgumentParser(description='Train the networks with random input shape.')
     parser.add_argument('--model', type=str, default='faste_rcnn',
