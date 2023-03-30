@@ -12,7 +12,7 @@ from torchvision.models.detection.faster_rcnn import fasterrcnn_resnet50_fpn_v2 
 from torchvision.models.detection.ssd import ssd300_vgg16 as ssd
 
 # detection module from Torchversion/references/detection (download required)
-from ..detection import transforms as T
+from detection import transforms as T
 from detection import utils           
 from detection.engine import train_one_epoch, evaluate
 
